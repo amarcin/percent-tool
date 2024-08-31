@@ -1,8 +1,10 @@
 # Percent Tool
 
-Simple tool to find the percentage difference between two numbers. This one always confused me for a while so I built this to help people figure it out. 
+Simple tool to find the percentage difference between two numbers. 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+This one always confused me for a while so I built this to help people figure it out. 
+
+Open tool here: https://percent-tool.streamlit.app
 
 ## Usage
 
