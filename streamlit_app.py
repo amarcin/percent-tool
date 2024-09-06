@@ -14,9 +14,9 @@ def main():
   
     st.write("Enter two numbers to calculate the percentage difference between them.")  
   
-    # Input fields for the two numbers  
-    num1 = st.number_input("Enter the first number", value=0.0, format="%.2f")  
-    num2 = st.number_input("Enter the second number", value=0.0, format="%.2f")  
+    # Input fields for the two numbers (integers only)  
+    num1 = st.number_input("Enter the first number", value=0, step=1)  
+    num2 = st.number_input("Enter the second number", value=0, step=1)  
   
     # Calculate percentage difference  
     if st.button("Calculate"):  
