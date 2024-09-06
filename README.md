@@ -2,6 +2,8 @@
 
 This is a simple web application built using Streamlit that calculates the percentage change from one number to another. It provides an intuitive interface for users to input numbers and instantly see the percentage change.
 
+Open tool here: https://percent-tool.streamlit.app
+
 ## Features
 
 - **User-Friendly Interface**: Easy to use with a clear input/output structure.
